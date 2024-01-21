@@ -64,7 +64,7 @@
           </button>
         </div>
         <div class="modal-body">
-        <h2>Hello Everyone. My name is Dharshan J. <br>I'm a freelancher. I'm selling the websites at the minimum cost. <br><br>For furthur details <a href="https://www.fiverr.com/s/x2daLQ" target="_blank">Click here</a>.</h2>
+        <h2>Hello Everyone. My name is Dharshan J. <br>I'm a freelancher. I'm selling websites at the minimum cost. <br><br>For furthur details <a href="https://www.fiverr.com/s/x2daLQ" target="_blank">Click here</a>.</h2>
         </div>
        
       </div>
